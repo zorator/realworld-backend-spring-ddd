@@ -22,7 +22,7 @@
     <animal.sniffer.skip>true</animal.sniffer.skip>
     <!-- Dependency versions: -->
     <jjwt.version>0.9.1</jjwt.version>
-    <checkerframework.version>3.12.0</checkerframework.version>
+    <checkerframework.version>3.29.0</checkerframework.version>
     <checker-guava.version>30.1.1-jre</checker-guava.version>
     <guava-failureaccess.version>1.0.1</guava-failureaccess.version>
     <!--Copied from openapi-generator-maven-plugin output: -->
