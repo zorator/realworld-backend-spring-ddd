@@ -27,7 +27,7 @@
     <guava-failureaccess.version>1.0.1</guava-failureaccess.version>
     <!--Copied from openapi-generator-maven-plugin output: -->
     <springfox-version>2.9.2</springfox-version>
-    <swagger-version>1.6.2</swagger-version>
+    <swagger-version>1.6.9</swagger-version>
   </properties>
   <dependencies>
     <!-- Spring dependencies: -->
